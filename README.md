@@ -5,7 +5,7 @@
 ## 📊 Presentation Preview
 
 <p align="center">
-  <img src="https://github.com/Anshlibrary/SQL_Triggers-_With_12_most_used_Queries/blob/main/Photos/1.png" width="400" />
+  <img src="https://github.com/Anshlibrary/SQL_Triggers-_With_12_most_used_Queries/blob/main/Photos/1.jpg" width="400" />
   <img src="https://github.com/Anshlibrary/SQL_Triggers-_With_12_most_used_Queries/blob/main/Photos/2.png" width="400" />
   <img src="https://github.com/Anshlibrary/SQL_Triggers-_With_12_most_used_Queries/blob/main/Photos/3.png" width="400" />
   <img src="https://github.com/Anshlibrary/SQL_Triggers-_With_12_most_used_Queries/blob/main/Photos/4.png" width="400" />
